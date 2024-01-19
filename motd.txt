@@ -1,4 +1,4 @@
-Hello Testers.
-Here we will be testing my playfab bot and it's other commands
-i only want you to test certain commands to see which ones you can and cant do. 
-the ones you cant do: Expected Result: It won't work because you dont have the specified role id
+Bot is really close to alpha.
+Just a couple more commands to do
+Fixed Setup
+Working on more
