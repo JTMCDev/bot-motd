@@ -1,3 +1,3 @@
-beware
-playfab feller is now a pedophile
-/sex
+New Command!
+/getuserinfo
+basically just /find_player but now you can do it with a playfab ID
