@@ -1,2 +1,3 @@
 Work your magic people
-do /setup
+do /setup\
+these are tests
