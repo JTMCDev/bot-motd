@@ -1,5 +1,7 @@
 New Commands!
 /getuserinfo
 /grant_currency
+/permaban
 getuserinfo basically just /find_player but now you can do it with a playfab ID
 grant currency  grants a user currency from the /setup command
+perma ban. can you take a guess on what it does.
